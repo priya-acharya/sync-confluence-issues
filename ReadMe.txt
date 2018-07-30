@@ -5,3 +5,8 @@ Create Environment variable AUTH with decoded as below:
   ii. base64.b64encode(<username:password>.encode('utf-8'))
   
 2. Go to environmental variables under system properties and add AUTH as key and above decoded string as value. 
+
+
+To install the required softwares, clone the project and open in command prompt and run below command 
+    pip install -r requirements.txt
+   
