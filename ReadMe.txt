@@ -1,1 +1,7 @@
-Create Environemnt variable AUTH wiht decoded as below: 
+Create Environment variable AUTH with decoded as below: 
+
+1. Open command prompt and type python(assuming python is already installed). Encode the Username and password strings to base64 using following steps
+  i. import base64
+  ii. base64.b64encode(<username:password>.encode('utf-8'))
+  
+2. Go to environmental variables under system properties and add AUTH as key and above decoded string as value. 
