@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arihantdefects",
+  "private_key_id": "e5d6d6ac32a38017c6c8182e010f8aa62302a711",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMXI8CHoCcguup\nqe3U2FG/EVa/9gO5ZFLKgXE/sHWTVL8EGVXLNQk44BuX/DPa9ZK1EGMs5Y4lHsci\n9Bf4xZ/MYdMTB6VcLC6wUjnKWXeMyqpegf9YLScVNvBuBJae7qSBWzNdCze4yf7H\nS9uM9fKLsOeq86uMwcraiH48OSVEuIl5J+KS6RwuVFasHVtlDYuzo9PNAhFHexD4\nNvYFVMTaRDtwSM7VYFyLBaRhcD3t02MgFtTO2PziifZscfOdW78ivs6vxM2G6rkx\nCG5dRr3/jnen2nBL5f9jIQ4SWEU6LW8Jwb8ArejLSRZ5DAJ/d2bJrW6YiQWe042H\nonu/QGA3AgMBAAECggEAVRaIuLIojIH6S0ckbkWvK6W1f/GXtV4vFn/0vjbjjXdw\nnO1LinNHprWw54QrtxQehGMRWAUwPQZmlYgaXwsxsLBeaQL697ixq9pgk37Sxv0v\nGHB596W9KxkX3Ebuy7fDKNTnOutLxRXdje9ot3VECqOaodQY7l9V7c18+eg1Ozn3\nfamTxNTAO1Z2kwT5zCUojyzxjCr27tF/WfDptd5FWqGhPZoy+QDNDIoyVtpr4Fgs\nzYUwkbBW477hpRcAJcAVp7N9rBzp+e/qgp8djuiiuJTfLroEDNn9/1pMRCR5tiu/\n5BMfUHAzg1pFzxydRXyHD+7Y/06c/DJeN9AAbpQLiQKBgQD3WZM6RPcDx3cGtdWr\nyHb+S/RM1imfdgyPYZ9JjYR2GoeePZO0+2sL51H7bdp8dJnxHnsl+zwN9brYjdBu\n5wzemxipy0mvVJbCDqYEAQzTjf9/59FUuhxPAoz02nBEylZnvRZw1M2DM/je5s3b\notJiG3dIu6NQrMHYzi2wSSZunQKBgQDTgiBDaMNkcKvaQQTyJV15/bRhUtaTocl9\nJ+w8GGuQcOIdOCdzJ4nDFZWq6W1B2w6PWIyH0YMqYsSdZWmeouK9OA2Ep+NWzFI3\nVogg4dIU/OGh9S5uL70cBTKKi756uzyfe4y3mStPhR1gNZzbZ0pDbkaTdYhiPOBA\nNfDRvd4H4wKBgCqutV4vumRXji2FQSrUe9wj5TNBHYubxk0TrnX1yq7Koy5mN8/a\nNr2mHBqD+VjSkiHufZevQ8yw454s0pPgoPLk1puuLbfoo982weUc/UagUT+UFCZH\nu0zTBtnVu9vTApgCJBYyUohado6YS1ukPCOb07ikUGlCdmzgHzg1V0FtAoGBAMBK\n+wguNA6Z/TQFjviTjgO97APbq2g3XBdkd3s/fHOqnXiROBSSqsXpVtQ3OvT3sqoS\niFlm2shrWXP74mWuk1QSpP+pH6AnTMww6Lx0cmpQatazMU5OKrFR7FxXpoqwtfIN\nAqddIyo9zLJOq9gxdSwPEy03WxJtZDgckmAuLbGfAoGBALQGbnRjv+vVX9xdshWz\nPGrQRWtNT4cN3uMI3TSv6E9neQT30D2/8bPDJK2L3xmDg5QfWQw6H98cPVga9+gP\nPyPPse3YJEKiJufV8TkaWanR4OSs8AIPY4egUzxiuN77HcauAMfxHSK3e+NlXXjh\nGYmN8JtvlY+GM0FCBbuSBzRH\n-----END PRIVATE KEY-----\n",
+  "client_email": "confluence-sync@arihantdefects.iam.gserviceaccount.com",
+  "client_id": "117927611460726813590",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/confluence-sync%40arihantdefects.iam.gserviceaccount.com"
+}
